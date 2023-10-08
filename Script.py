@@ -22,7 +22,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/UHD_Tamil_Bot>𝚄𝙷𝙳 𝚃𝚊𝚖𝚒𝚕 𝙱𝚘𝚝</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/GN24M>MG 24</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/GN24M>𝕄𝔾 𝟚𝟜</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
